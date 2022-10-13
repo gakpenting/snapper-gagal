@@ -33,40 +33,4 @@ $ npm run server
 ![alt text](https://i.imgur.com/7LQxDhB.png)
 
 
---------------------
-transalate indonesian 
-
-# Penembak Jitu
-Alat snipping yang dibuat dengan backend Electron, React, dan Node.js
-
-Lihat [Tutorial] lengkap (https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/)
-### Petunjuk Penyiapan
-```
-$ git clone https://github.com/waleedahmad/Snipper.git
-
-# instal dependensi
-$npm instal
-
-# Untuk pengembang
-$npm menjalankan dev
-
-# Untuk produksi
-$npm menjalankan produk
-
-# Hasilkan penginstal dan biner
-$npm menjalankan dist
-
-# Menjalankan server unggah untuk snips (diperlukan untuk fitur unggah)
-$npm menjalankan server
-```
-
-### Masalah Dikenal
-#### Ubuntu 16.04
-* Opsi `kiosk : true` diteruskan ke `BrowserWindow` menyembunyikan unity laucher
-
-### Tangkapan Layar
-
-![teks alternatif](https://i.imgur.com/Ehe50To.jpg)
-
-![teks alternatif](https://i.imgur.com/7LQxDhB.png)
 
